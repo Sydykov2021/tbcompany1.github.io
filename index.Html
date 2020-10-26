@@ -5,14 +5,33 @@
   <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <style>
-  .site{
-    color:green;
-    background-color:blue;
-    background:blue;
+   body{
+     color:white;
+     font-size:30px;
+     }
+  .row:after {
+    visibility: hidden;
+    display: block;
+    font-size:9;
+    content: " ";
+    clear: both;
+    height: 0;
     }
+  .row { display: inline-block; }
+  * html .row { height: 1%; }
+  .row { display: block; }
+  .header {
+    background:#3d3c66;
+    height: 200px;
+    margin-bottom: 10px;
+    }
+  
 </style>
 <body>
-<div class="site">
-<h1>Я выложил саит в интернет, Митя,мама Люда и  мама Настя согласитесь круто!</h1>
-  </div>
+<div class="wrapper">
+<div class="header">
+<div class="container row">
+  <div class="content">
+  <div class="sidebar">
+<div class="footer">
 </body>
