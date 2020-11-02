@@ -1,6 +1,5 @@
 
 <DOCTYPE html>
-</html>
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
@@ -471,4 +470,5 @@ a.button7:active { background: white; }
   <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f991ffdaf5ec23b"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f991ffdaf5ec23b"></script>
 </body>
 
+</html>
 </html>
